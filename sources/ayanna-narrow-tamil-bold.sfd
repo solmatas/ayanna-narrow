@@ -61,7 +61,6 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "Medium" "" "" "Version 2.5.0" "" "" "" "" "" "" "" "" "" "" "ayanna-tamil" "tamil"
 Encoding: Custom
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
@@ -96,10 +95,10 @@ Grid
 -1024 261.33203125 m 1
  2048 261.33203125 l 1025
 EndSplineSet
-BeginChars: 25 12
+BeginChars: 13 12
 
 StartChar: uni0B8E
-Encoding: 3 2958 0
+Encoding: 1 2958 0
 Width: 694
 Flags: MW
 HStem: -17 36 1 21G 233 36 486 35
@@ -199,7 +198,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0B8F
-Encoding: 4 2959 1
+Encoding: 2 2959 1
 Width: 694
 Flags: MW
 HStem: -18 36 0 21G<484 589 484 484 589 589> 232 36 485 35
@@ -250,7 +249,7 @@ Refer: 0 2958 N 1 0 0 1 0 -1 2
 EndChar
 
 StartChar: uni0B88
-Encoding: 2 2952 2
+Encoding: 0 2952 2
 Width: 602
 Flags: HMW
 HStem: 0 21G<60 60 60 165 355 355 355 460> 244 67 485 35
@@ -308,7 +307,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0BB3
-Encoding: 17 2995 3
+Encoding: 6 2995 3
 Width: 892
 Flags: MW
 HStem: -17 36 0 21G 233 36 485 35 499 36
@@ -376,7 +375,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0BF3
-Encoding: 22 3059 4
+Encoding: 10 3059 4
 Width: 676
 Flags: HMW
 HStem: -17 36 0 35 233 36 499 36
@@ -433,7 +432,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0BAA
-Encoding: 14 2986 5
+Encoding: 4 2986 5
 Width: 561
 Flags: MW
 HStem: 0 35
@@ -467,7 +466,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0BB0
-Encoding: 16 2992 6
+Encoding: 5 2992 6
 Width: 532
 Flags: HMW
 HStem: 0 21G<60 165 60 60 346 346 346 451 451 451> 485 35
@@ -515,7 +514,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0B9F
-Encoding: 9 2975 7
+Encoding: 3 2975 7
 Width: 703
 Flags: MW
 HStem: 0 35
@@ -545,7 +544,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0BB5
-Encoding: 18 2997 8
+Encoding: 7 2997 8
 Width: 771
 Flags: HMW
 LayerCount: 3
@@ -627,7 +626,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0BBE
-Encoding: 20 3006 9
+Encoding: 8 3006 9
 Width: 642
 Flags: HMW
 HStem: 0 21G<60 165 60 60 346 346 346 451> 485 35
@@ -665,7 +664,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0BED
-Encoding: 21 3053 10
+Encoding: 9 3053 10
 Width: 694
 Flags: MW
 HStem: -17 36 1 21G 233 36
@@ -726,7 +725,7 @@ EndSplineSet
 EndChar
 
 StartChar: one
-Encoding: 23 49 11
+Encoding: 11 49 11
 Width: 642
 Flags: W
 HStem: 0 21G<346 451>
