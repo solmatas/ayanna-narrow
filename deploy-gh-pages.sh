@@ -7,7 +7,8 @@ git config user.email "pathumego@gmail.com"
 
 # The first and only commit to this new Git repo contains all the
 # files present with the commit message "Deploy to GitHub Pages".
-cd tests/fonts/
+
+cd tests/fonts
 git add .
 git commit -m "Deploy Tamil to GitHub Pages"
 
