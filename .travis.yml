@@ -2,4 +2,4 @@ script: bash ./deploy-gh-pages.sh
 env:
   global:
   - GH_REF: github.com/mooniak/ayanna-narrow.git
-  - secure: kGxu2vz6vSIPzDnKT9rigVam9PqBpyPRKhBDkGh2b+pypF1i3Gq34L++brcDNBgtNL0VsV47KX588VVRzLW1CDWgamQTvjUeHBjLPPmQheOyoEYGehP0ETE5E16aOBCkMM0eK4OW/XwpGpJCh2uvkkS2alYNUHm6sKrZs4WDbME=
+  - secure: Xugau84uBrwgwGkglNZzRngnjYFZJZpYPW5JcMHhUzARB+ZsXqV/d33uDHwf41116rwtl9WHybdsf3MpTEcSYZkfSyVIMK14Lw30fPHEx0YF5SIZ/QlZyEUfBCQaht2dUb/TMQoWZfNALH85XppHvHyMPlop1D11axNaMC1S5qg=
